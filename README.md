@@ -1,0 +1,2 @@
+# MyPublicRepositoryTemplate
+私のパブリックレポジトリ向けのテンプレート
