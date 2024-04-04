@@ -11,4 +11,4 @@ jobs:
     name: Call workflow
     uses: Gakuto1112/PublicPullRequestWorkflows/.github/workflows/request_review_trigger_core.yml@main
     with:
-      reviewer: Gakuto1112
+      reviewer: Atsumi-Gakuto

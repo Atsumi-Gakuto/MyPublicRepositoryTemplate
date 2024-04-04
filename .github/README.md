@@ -1,5 +1,5 @@
 # MyPublicRepositoryTemplate
-私（[Gakuto1112](https://github.com/Gakuto1112)）のパブリックレポジトリ向けのテンプレートレポジトリです。
+私（[Atsumi-Gakuto](https://github.com/Atsumi-Gakuto)）のパブリックレポジトリ向けのテンプレートレポジトリです。
 
 このレポジトリには、プルリクエストに関するワークフローが含まれています。
 これらのワークフローについては以下のレポジトリをご覧ください。
